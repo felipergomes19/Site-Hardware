@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    background-color:hsl(0, 0%, 85%);
+    font-family:'Courier New', Courier, monospace;
+    padding: 0 2%;
+}
+
+h1{
+    text-align: center;
+    font-size: 300%
+}
+
+.abu{
+    margin-top: 8%;
+    border-radius: 30px;
+    padding:1% 2%;
+    width:fit-content;
+    background-color:yellow ;
+    margin-left:auto;
+    margin-right: auto;
+}
+
+.text1{
+    width: 96%;
+    text-align: justify;
+    
+}
+
+.sub{
+    font-size: 1.1em;
+    margin-top: 6%;
+    border-radius: 30px;
+    background-color: yellow;
+    padding: 0.5% 1%;
+}
+
+
+
+p,b{
+    text-align: justify;
+}
+
+img{
+    max-width: 100%;
+}
